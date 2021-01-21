@@ -5,4 +5,4 @@ Francesco - George - Yves
 
 The **Noob**, The
 ## Flemish
-and the __cool Greek__ !
+and the _cool Greek_ !
